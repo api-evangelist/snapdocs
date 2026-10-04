@@ -48,7 +48,7 @@ tags:
 - Company
 - PropTech
 - Mortgage
-- Real-Estate
+- Real Estate
 - Fintech
 - eClosing
 - Title and Settlement
@@ -62,6 +62,7 @@ tags_raw:
 - eClosing
 - Title and Settlement
 - Notary
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
